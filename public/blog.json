@@ -1,52 +1,55 @@
 [
-    {
-      "id": "001",
-      "cover": "https://i.ibb.co/fnfXY7w/198097-OYHFBH-91.jpg",
-      "title": "The Journey of Dreams",
-      "author": "Alice Smith",
-      "author_img": "https://i.ibb.co/B4cYmcQ/author-1.jpg",
-      "posted_date": "2024-06-13",
-      "reading_time": "25",
-      "hashtags": ["#fiction", "#dreams", "#adventure"]
-    },
-    {
-      "id": "002",
-      "cover": "https://i.ibb.co/F77yXw0/top-view-yellow-paper-sheet-with-colorful-paper-clips-with-purple-color-statice-flowers-laptop-with.jpg",
-      "title": "Echoes in Time",
-      "author": "John Johnson",
-      "author_img": "https://i.ibb.co/JcvY1bn/author-2.jpg",
-      "posted_date": "2024-06-12",
-      "reading_time": "30",
-      "hashtags": ["#sciencefiction", "#time-travel", "#mystery"]
-    },
-    {
-      "id": "003",
-      "cover": "https://i.ibb.co/bLYFsjB/elevated-view-notepad-pen-laptop-smartphone-wooden-background.jpg",
-      "title": "The Enigma Code",
-      "author": "Emily Brown",
-      "author_img": "https://i.ibb.co/B4cYmauthor-3.jpg",
-      "posted_date": "2024-06-11",
-      "reading_time": "20",
-      "hashtags": ["#mystery", "#puzzle", "#thriller"]
-    },
-    {
-      "id": "004",
-      "cover": "https://i.ibb.co/9Ns8Fgk/4483579.jpg",
-      "title": "The Culinary Odyssey",
-      "author": "Michael White",
-      "author_img": "https://i.ibb.co/GtJ5yKN/author-4.jpg",
-      "posted_date": "2024-06-10",
-      "reading_time": "40",
-      "hashtags": ["#cooking", "#recipes", "#foodie"]
-    },
-    {
-      "id": "005",
-      "cover": "https://i.ibb.co/RbZ4qMC/10281501.jpg",
-      "title": "Wanderlust",
-      "author": "Sarah Green",
-      "author_img": "https://i.ibb.co/6mmHmfj/author-5.jpg",
-      "posted_date": "2024-06-09",
-      "reading_time": "35",
-      "hashtags": ["#travel", "#adventure", "#nature"]
-    }
-  ]
+  {
+      "id": 1,
+      "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+      "title": "Top 10 ES6 Features You Must Know",
+      "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+      "author": "Hamza Sohail",
+      "posted_date": "September 15, 2023",
+      "reading_time": 5,
+      "hashtags": [
+          "beginners",
+          "es6"
+      ]
+  },
+  {
+      "id": 2,
+      "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+      "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+      "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+      "author": "Sajal Ali",
+      "posted_date": "August 28, 2023",
+      "reading_time": 4,
+      "hashtags": [
+          "javascript",
+          "coding",
+          "dev"
+      ]
+  },
+  {
+      "id": 3,
+      "cover": "https://i.ibb.co/RzGzcPg/3.png",
+      "title": "Component lifecycle in React — Class component vs Functional component",
+      "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+      "author": "Feroze Khan",
+      "posted_date": "July 10, 2023",
+      "reading_time": 10,
+      "hashtags": [
+          "mid_level",
+          "react"
+      ]
+  },
+  {
+      "id": 4,
+      "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+      "title": "Free images and resources collection for website",
+      "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+      "author": "Anmol Baloch",
+      "posted_date": "June 5, 2023",
+      "reading_time": 9,
+      "hashtags": [
+          "development",
+          "resources"
+      ]
+  }
+]
