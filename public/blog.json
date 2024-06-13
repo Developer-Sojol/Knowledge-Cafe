@@ -1,0 +1,52 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.ibb.co/fnfXY7w/198097-OYHFBH-91.jpg",
+      "title": "The Journey of Dreams",
+      "author": "Alice Smith",
+      "author_img": "https://i.ibb.co/B4cYmcQ/author-1.jpg",
+      "posted_date": "2024-06-13",
+      "reading_time": "25",
+      "hashtags": ["#fiction", "#dreams", "#adventure"]
+    },
+    {
+      "id": "002",
+      "cover": "https://i.ibb.co/F77yXw0/top-view-yellow-paper-sheet-with-colorful-paper-clips-with-purple-color-statice-flowers-laptop-with.jpg",
+      "title": "Echoes in Time",
+      "author": "John Johnson",
+      "author_img": "https://i.ibb.co/JcvY1bn/author-2.jpg",
+      "posted_date": "2024-06-12",
+      "reading_time": "30",
+      "hashtags": ["#sciencefiction", "#time-travel", "#mystery"]
+    },
+    {
+      "id": "003",
+      "cover": "https://i.ibb.co/bLYFsjB/elevated-view-notepad-pen-laptop-smartphone-wooden-background.jpg",
+      "title": "The Enigma Code",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/B4cYmauthor-3.jpg",
+      "posted_date": "2024-06-11",
+      "reading_time": "20",
+      "hashtags": ["#mystery", "#puzzle", "#thriller"]
+    },
+    {
+      "id": "004",
+      "cover": "https://i.ibb.co/9Ns8Fgk/4483579.jpg",
+      "title": "The Culinary Odyssey",
+      "author": "Michael White",
+      "author_img": "https://i.ibb.co/GtJ5yKN/author-4.jpg",
+      "posted_date": "2024-06-10",
+      "reading_time": "40",
+      "hashtags": ["#cooking", "#recipes", "#foodie"]
+    },
+    {
+      "id": "005",
+      "cover": "https://i.ibb.co/RbZ4qMC/10281501.jpg",
+      "title": "Wanderlust",
+      "author": "Sarah Green",
+      "author_img": "https://i.ibb.co/6mmHmfj/author-5.jpg",
+      "posted_date": "2024-06-09",
+      "reading_time": "35",
+      "hashtags": ["#travel", "#adventure", "#nature"]
+    }
+  ]
